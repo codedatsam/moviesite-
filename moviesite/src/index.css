@@ -45,7 +45,7 @@ h1{
 }
 
 
-#answer,button{
+textarea,button{
   border-radius: 8px;
   color: whitesmoke;
   width: 500px;
